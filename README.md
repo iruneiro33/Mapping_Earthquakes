@@ -13,8 +13,10 @@ A second layer of data of major earthwuakes ranging of magnitude above 4.5. Also
 c. Additional Map
 Different maps like satellite view, Navigation night view (dark mode), or street mode are available in the page design able to be turned off or on as desired allowing interactivity.
 
-In case something might not work here are some examples in which I chose the geographic region of Mexico and neighbour areas:
+In case something might not work here are some examples:
 
+
+Red lines showing tectonic plates
 <img width="831" alt="Screen Shot 2022-09-15 at 01 39 51" src="https://user-images.githubusercontent.com/7553779/190323516-dc875c17-56a3-45a5-b726-a6bd726e7994.png">
 
 <img width="829" alt="Screen Shot 2022-09-15 at 01 40 04" src="https://user-images.githubusercontent.com/7553779/190323518-030a5be5-aa64-4d3d-bd6a-930b0baed995.png">
